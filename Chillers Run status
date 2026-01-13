@@ -1,5 +1,5 @@
 -- this script is to import chiller_Run_status data then
--- cleaning it and transfer it to silver layer
+-- cleaning it and transfering it to gold layer
 
 use bronze;
 
